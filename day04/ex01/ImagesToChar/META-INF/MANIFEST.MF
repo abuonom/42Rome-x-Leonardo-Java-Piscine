@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: target.edu.school21.printer.app.Program
+Created-By: Alessio Buonomo
+
